@@ -8,5 +8,6 @@ Este repositorio contiene los scripts, datos y mapas generados para el análisis
 - Documento en word de los resultados.
 
 ## Autor
-Proyecto desarrollado por [Karla Arely Miranda Gabriel y Zulema Yamileth Cervantes Hernandez]
+Proyecto desarrollado por Karla Arely Miranda Gabriel y Zulema Yamileth Cervantes Hernandez
+
 Universidad Veracruzana — 2025
