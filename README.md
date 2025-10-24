@@ -5,7 +5,7 @@ Este repositorio contiene los scripts, datos y mapas generados para el análisis
 - Base de datos en csv
 - SHP de Mérida 
 - Códigos en Python.
-- Documento en word de los resultados.
+- Documento en PDF con los resultados.
 
 ## Autor
 Proyecto desarrollado por Karla Arely Miranda Gabriel y Zulema Yamileth Cervantes Hernandez
