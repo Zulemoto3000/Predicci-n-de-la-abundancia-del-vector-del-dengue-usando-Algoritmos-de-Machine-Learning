@@ -8,6 +8,6 @@ Este repositorio contiene los scripts, datos y resultados para el análisis espa
 - Documento en PDF con los resultados.
 
 ## Autor
-Proyecto desarrollado por Karla Arely Miranda Gabriel y Zulema Yamileth Cervantes Hernandez
+Proyecto desarrollado por Karla Arely Miranda Gabriel y Zulema Yamileth Cervantes Hernandez 
 
 Universidad Veracruzana — 2025 
