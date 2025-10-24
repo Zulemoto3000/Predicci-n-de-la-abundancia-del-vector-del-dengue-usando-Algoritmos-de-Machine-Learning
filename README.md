@@ -1,4 +1,4 @@
-### Predicción de la abundancia del vector del dengue usando algoritmos de Machine Learning
+# predicción de la abundancia del vector del dengue usando algoritmos de Machine Learning
 Este repositorio contiene los scripts, datos y mapas generados para el análisis espacial del número de huevos de *Aedes aegypti* en Mérida, Yucatán.
 
 ## Estructura del proyecto
